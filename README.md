@@ -1,5 +1,5 @@
-mpl_tutorial
-============
+matplotlib_tutorial
+===================
 
 A basic Matplotlib tutorial forked from https://github.com/jakevdp/mpl_tutorial?files=1
 
